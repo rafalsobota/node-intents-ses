@@ -1,4 +1,4 @@
-# Mailgun integration for Intents
+# Amazon Simple Eamil Service integration for Intents
 
 This project is intented to use with [Intents](https://github.com/rafalsobota/node-intents) module.
 
@@ -47,8 +47,3 @@ in app code:
           console.error(error);
         }
       });
-
-`key` - (required) your AWS SES key
-`secret` - (required) your AWS SES secret
-`algorithm` - [optional] the AWS algorithm you are using. defaults to SHA1.
-`amazon` - [optional] the amazon end-point uri. defaults to amazon east.
