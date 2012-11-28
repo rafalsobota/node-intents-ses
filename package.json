@@ -1,0 +1,16 @@
+{
+  "name": "intents-ses",
+  "version": "0.1.0",
+  "main": "./lib/ses.js",
+  "description": "AWS Simple Email Service integration with Intents.",
+  "author": {
+    "name": "Rafał Sobota",
+    "email": "ravsobota@gmail.com"
+  },
+  "dependencies": {
+    "node-ses": "0.0.x"
+  },
+  "engines": {
+    "node": ">0.4.x"
+  }
+}
