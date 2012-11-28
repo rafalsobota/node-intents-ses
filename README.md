@@ -1,4 +1,4 @@
-# Amazon Simple Eamil Service integration for Intents
+# Amazon Simple Email Service integration for Intents
 
 This project is intented to use with [Intents](https://github.com/rafalsobota/node-intents) module.
 
